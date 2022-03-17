@@ -1,0 +1,20 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.SocketEvent = void 0;
+var SocketEvent;
+(function (SocketEvent) {
+    SocketEvent["CreateMeeting"] = "CreateMeeting";
+    SocketEvent["JoinMeeting"] = "JoinMeeting";
+    SocketEvent["ParticipantJoined"] = "ParticipantJoined";
+    SocketEvent["LeaveMeeting"] = "LeaveMeeting";
+    SocketEvent["SyncMeetingState"] = "SyncMeetingState";
+    SocketEvent["ChatMessage"] = "ChatMessage";
+    SocketEvent["SetMeetingLocked"] = "SetMeetingLocked";
+    SocketEvent["SetCodeShareCursor"] = "SetCodeShareCursor";
+    SocketEvent["SetCodeShareSelection"] = "SetCodeShareSelection";
+    SocketEvent["SetCodeShareTabContent"] = "SetCodeShareTabContent";
+    SocketEvent["SetCodeShareLanguage"] = "SetCodeShareLanguage";
+    SocketEvent["SetCodeTypingLocked"] = "SetCodeTypingLocked";
+    SocketEvent["SetCurrentUserAvatar"] = "SetCurrentUserAvatar";
+    SocketEvent["Disconnecting"] = "disconnecting";
+})(SocketEvent = exports.SocketEvent || (exports.SocketEvent = {}));

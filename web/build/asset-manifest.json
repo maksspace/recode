@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8ad5f4f8.chunk.css",
+    "main.js": "/static/js/main.fd92db6f.chunk.js",
+    "main.js.map": "/static/js/main.fd92db6f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.596a6f02.js",
+    "runtime-main.js.map": "/static/js/runtime-main.596a6f02.js.map",
+    "static/js/2.84c2beed.chunk.js": "/static/js/2.84c2beed.chunk.js",
+    "static/js/2.84c2beed.chunk.js.map": "/static/js/2.84c2beed.chunk.js.map",
+    "static/js/3.896102e1.chunk.js": "/static/js/3.896102e1.chunk.js",
+    "static/js/3.896102e1.chunk.js.map": "/static/js/3.896102e1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8ad5f4f8.chunk.css.map": "/static/css/main.8ad5f4f8.chunk.css.map",
+    "static/js/2.84c2beed.chunk.js.LICENSE.txt": "/static/js/2.84c2beed.chunk.js.LICENSE.txt",
+    "static/media/donate.86d4f8fb.svg": "/static/media/donate.86d4f8fb.svg",
+    "static/media/google.bbce75f8.svg": "/static/media/google.bbce75f8.svg",
+    "static/media/outlook.8fdc60c0.svg": "/static/media/outlook.8fdc60c0.svg",
+    "static/media/s1.f90f77d8.png": "/static/media/s1.f90f77d8.png",
+    "static/media/smile.989e76d7.svg": "/static/media/smile.989e76d7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.596a6f02.js",
+    "static/js/2.84c2beed.chunk.js",
+    "static/css/main.8ad5f4f8.chunk.css",
+    "static/js/main.fd92db6f.chunk.js"
+  ]
+}

@@ -1,0 +1,13 @@
+.socket-ready_title {
+    color: white;
+    margin-left: 16px;
+}
+
+.socket-ready {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #2f414c;
+}

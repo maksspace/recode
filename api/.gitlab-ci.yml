@@ -1,0 +1,8 @@
+image: node
+
+stages:
+  - deploy
+
+deploy-prod:
+  npm ci
+  

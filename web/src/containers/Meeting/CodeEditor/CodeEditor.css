@@ -1,0 +1,25 @@
+.code-editor {
+    position: relative;
+    display: flex;
+    color: white;
+    box-sizing: border-box;
+}
+
+.code-editor_cursor {
+    width: 2px;
+    height: 20px;
+    transition: opacity;
+    transition-duration: 0.2s;
+}
+
+.code-editor_cursor_tooltip {
+    position: absolute;
+    height: 12px;
+    /*opacity: 0.9;*/
+    font-size: 8px;
+    left: 0;
+    padding: 2px;
+    line-height: 8px;
+    font-weight: bold;
+    color: white;
+}
